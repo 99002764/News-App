@@ -1,5 +1,6 @@
 ![CI](https://github.com/99002764/News-App/workflows/CI/badge.svg)
 ![CI](https://github.com/99002764/News-App/workflows/CI/badge.svg)
+![cppcheck-action](https://github.com/99002764/News-App/workflows/cppcheck-action/badge.svg)
 # News App
 Project as a part of Android Basics Nanodegree at Udacity
 
