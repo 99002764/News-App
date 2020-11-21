@@ -1,3 +1,4 @@
+![CI](https://github.com/99002764/News-App/workflows/CI/badge.svg)
 # News App
 Project as a part of Android Basics Nanodegree at Udacity
 
